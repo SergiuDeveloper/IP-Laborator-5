@@ -2,6 +2,7 @@
 ## Product Backlog
 
 Product Backlog = Fisa de cerinte ale proiectului / modulului, impartite in Sprint-uri ( perioade de lucru )
+Feature-urile pot fi atat evidente client-ului, cat si abstracte sau mascate ( i.e. ceva din back-end )
 * Se vor decide dinamic cerintele pe baza modulului primit la laborator
 * Se vor comunica orice fel de schimbari cu SCRUM-Master si, de preferat, cu echipele care lucreaza cu C4 si cu UML (cand e necesar)
 * Daca nu sunteti siguri de necesitatea unui lucru in backlog, discutati
@@ -20,3 +21,4 @@ Prodcut backlog-ul va contine un set de idei ( feature-uri ) care vor fi impleme
 1. Importanta = E un feature cheie sau un feature optional ( cat de frecventat este )
 2. Durata implementare = self-explainatory, cat ar dura implementarea acestui feature
 3. Dependente = depinde alt feature de acest feature? Atunci importanta ii creste. Depinde acest feature de existenta altuia? Atunci importanta ii scade. 
+* Se vor organiza feature-urile in iteratii (sprint-uri) pentru a aduna cat de multe feature-uri intr-un pachet de lucru.
