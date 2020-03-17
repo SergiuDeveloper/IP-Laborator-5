@@ -13,3 +13,10 @@ Prodcut backlog-ul va contine un set de idei ( feature-uri ) care vor fi impleme
 * Sa nu fie inutila clientului. ( Discutabil in cazuri speciale, ex 1 din 1000 clienti folosesc acest feature. Cine sunt aceia, etc.)
 * Sa fie realizabila dpdv tehnologic si dpdv a timpului necesar implementarii.
 * Sa fie intuitiva.
+
+## Mod lucru 
+* Se stabilesc la inceputul laboratorului 2-3 idei din Backlog, cat de intuitive si importante pentru modulul curent, pentru a fi folosite de echipa C4.
+* Se dezvolta restul documentului, organizat pe importanta/durata implementare/dependente.
+1. Importanta = E un feature cheie sau un feature optional ( cat de frecventat este )
+2. Durata implementare = self-explainatory, cat ar dura implementarea acestui feature
+3. Dependente = depinde alt feature de acest feature? Atunci importanta ii creste. Depinde acest feature de existenta altuia? Atunci importanta ii scade. 
