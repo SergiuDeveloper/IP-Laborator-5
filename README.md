@@ -9,6 +9,7 @@
 
 ## Mod lucru laborator
 
+Inainte de a ne apuca, vom avea Induction, in care se va explica laboratorul
 * 1. Se vor stabili 2-3 feature-uri intuitive ale modulului, pentru a permite tuturor echipelor sa lucreze de la bun inceput.
 * 2. Echipa de backlog se va ocupa de identificarea feature-urilor necesare modulului primit
 * 3. Echipa de C4 va concepe diagramele C4 necesare acestui modul (cel mai probabil c2 (modul curent) -> c3(componente ale modulului)) si va lucra impreuna cu echipa de UML ( intrucat echipa UML necesita design-ul feature-urilor modulelor pentru a le modela). Se vor face 2-3 diagrame c3 ca task principal pentru a fi date la echipa UML, dupa care aceasta echipa va continua cu restul
